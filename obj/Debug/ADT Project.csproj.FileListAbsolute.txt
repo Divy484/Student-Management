@@ -1,0 +1,32 @@
+E:\Divy\ADT Project\obj\Debug\ADT Project.csproj.AssemblyReference.cache
+E:\Divy\ADT Project\obj\Debug\ADT Project.csproj.SuggestedBindingRedirects.cache
+E:\Divy\ADT Project\obj\Debug\ADT_Project.Login_Form.resources
+E:\Divy\ADT Project\obj\Debug\ADT_Project.Properties.Resources.resources
+E:\Divy\ADT Project\obj\Debug\ADT Project.csproj.GenerateResource.cache
+E:\Divy\ADT Project\obj\Debug\ADT Project.csproj.CoreCompileInputs.cache
+E:\Divy\ADT Project\bin\Debug\ADT Project.exe.config
+E:\Divy\ADT Project\bin\Debug\ADT Project.exe
+E:\Divy\ADT Project\bin\Debug\ADT Project.pdb
+E:\Divy\ADT Project\obj\Debug\ADT Project.exe
+E:\Divy\ADT Project\obj\Debug\ADT Project.pdb
+E:\Divy\ADT Project\obj\Debug\ADT_Project.MainForm.resources
+E:\Divy\ADT Project\obj\Debug\ADT_Project.AddStudentForm.resources
+E:\Divy\ADT Project\obj\Debug\ADT_Project.studentsListForm.resources
+E:\Divy\ADT Project\obj\Debug\ADT_Project.UpdateDeleteStudentForm.resources
+E:\Divy\ADT Project\obj\Debug\ADT_Project.ManageStudentsForm.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\bin\Debug\ADT Project.exe.config
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\bin\Debug\ADT Project.exe
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\bin\Debug\ADT Project.pdb
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT Project.csproj.AssemblyReference.cache
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT Project.csproj.SuggestedBindingRedirects.cache
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.AddStudentForm.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.Login_Form.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.MainForm.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.ManageStudentsForm.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.Properties.Resources.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.studentsListForm.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT_Project.UpdateDeleteStudentForm.resources
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT Project.csproj.GenerateResource.cache
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT Project.csproj.CoreCompileInputs.cache
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT Project.exe
+D:\College\4th Sem\ADT (Application Development Tools)\ADT Project\obj\Debug\ADT Project.pdb
